@@ -1,2 +1,2 @@
-# Unity-Basic-Npc-Move
+# Unity-NPC-JE
 * Educational use only
